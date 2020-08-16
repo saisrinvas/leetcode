@@ -33,6 +33,8 @@ class Solution:
                 nums[len_] = nums[i]
                 len_ +=1
         return len_
+    
+    
 
 
 ## move zeroes
